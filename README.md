@@ -1,7 +1,7 @@
 # ztos-build
 
 How ztOS is built: the installer, the generic system image (GSI) and the
-emulator target. Part of ztOS BETA-1; the other repositories are
+emulator target. Part of ztOS BETA-1.1; the other repositories are
 [ztos-core](https://github.com/Zerone-Laboratories/ztos-core) (the system and
 its apps), [ztos-ial](https://github.com/Zerone-Laboratories/ztos-ial) (the
 hardware interfaces) and one `ztos-device-<phone>` per phone, such as
